@@ -1,0 +1,17 @@
+{
+  "name": "growthplantask",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "moment": "^2.30.1"
+  }
+}
